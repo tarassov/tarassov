@@ -7,7 +7,7 @@ I'm currently:
 - looking forward for a new job
 - passionate to learn new things
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+## 📫 How to reach me:
 You can reach me at the email in my github profile or via my socials
 
 [<img src="https://raw.githubusercontent.com/tarassov/tarassov/master/linkedin.png" height="40em" align="center" alt="Follow alexander-tarasov-dev on LinkedIn" title="Follow alexander-tarasov-dev on LinkedIn"/>](https://www.linkedin.com/in/alexander-tarasov-dev/)
