@@ -1,7 +1,7 @@
 ### Hi there. My name is Alex👋 and I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 ### Few things about me
-I am:
+I'm currently:
 - very proud to be a developer 
 - looking forward for a new job
 - passionate to learn new
@@ -22,22 +22,14 @@ I am:
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tarassov&theme=calm&hide_border=true)](https://git.io/streak-stats)
+## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarassov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/tarassov/tarassov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarassov&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+</a>
+<a href="https://github.com/tarassov/tarassov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarassov&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-<!--
-**tarassov/tarassov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
