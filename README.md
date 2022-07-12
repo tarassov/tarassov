@@ -6,6 +6,8 @@ I am:
 - looking forward for a new job
 - passionate to learn new
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" title="React" alt="React" width="20" height="20"/> Feel free to contact me via telegram https://t.me/tarasov_a 
+
 ### :fire: Tech stack :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
