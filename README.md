@@ -4,7 +4,6 @@
 ## :book: Few things about me:
 I'm currently:
 - very proud to be a developer 
-- looking forward for a new job
 - passionate to learn new things
 
 ## 📫 How to reach me:
