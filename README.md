@@ -1,4 +1,4 @@
-## Hi there. My name is Alex👋 and I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+## Hi there. My name is Alex👋 and I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 ## :book: Few things about me:
 I'm currently:
