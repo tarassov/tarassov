@@ -1,5 +1,4 @@
 ## Hi there. My name is Alex👋 and I am a React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=tarassov.tarassov&color=00cf00)
 
 ## :book: Few things about me:
 I'm currently:
