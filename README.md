@@ -1,10 +1,3 @@
-## Hi there. My name is Alex👋 and I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
-## :book: Few things about me:
-I'm currently:
-- very proud to be a developer 
-- passionate to learn new things
-
 ## 📫 How to reach me:
 You can reach me at the email in my github profile or via my socials
 
